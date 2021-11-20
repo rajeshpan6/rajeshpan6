@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rajeshpan6
 - 👀 I’m interested to be a business anlyst/data analyst
 - 🌱 I’m currently learning python,r,sql,tableau,advance excel, power bi
-- 💞️ I’m looking to collaborate with people who are looking for the same career
+- 💞️ I’m looking to collaborate with people who are looking for the same career opportunities
 - 📫 How to reach me ...email- rajeshpan6@gmail.com and mob- +919735689002
 
 <!---
